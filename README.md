@@ -19,6 +19,12 @@ pip install opencv-python
 
 ## 运行代码：
 
+视频美颜效果（主要由191250097完成）
 ```bash
 python test.py
+```
+
+图片美颜效果（主要由191250202完成）
+```bash
+python facemask.py
 ```
